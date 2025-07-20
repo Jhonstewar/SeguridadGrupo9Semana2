@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\RYZEN 5\\OneDrive\\Desktop\\seguridad\\pruebaEncript\\pruebaEncript.csproj": {}
+    "C:\\Users\\RYZEN 5\\OneDrive\\Desktop\\seguridad\\SeguridadGrupo9Semana2\\pruebaEncript.csproj": {}
   },
   "projects": {
-    "C:\\Users\\RYZEN 5\\OneDrive\\Desktop\\seguridad\\pruebaEncript\\pruebaEncript.csproj": {
+    "C:\\Users\\RYZEN 5\\OneDrive\\Desktop\\seguridad\\SeguridadGrupo9Semana2\\pruebaEncript.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\RYZEN 5\\OneDrive\\Desktop\\seguridad\\pruebaEncript\\pruebaEncript.csproj",
+        "projectUniqueName": "C:\\Users\\RYZEN 5\\OneDrive\\Desktop\\seguridad\\SeguridadGrupo9Semana2\\pruebaEncript.csproj",
         "projectName": "pruebaEncript",
-        "projectPath": "C:\\Users\\RYZEN 5\\OneDrive\\Desktop\\seguridad\\pruebaEncript\\pruebaEncript.csproj",
+        "projectPath": "C:\\Users\\RYZEN 5\\OneDrive\\Desktop\\seguridad\\SeguridadGrupo9Semana2\\pruebaEncript.csproj",
         "packagesPath": "C:\\Users\\RYZEN 5\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\RYZEN 5\\OneDrive\\Desktop\\seguridad\\pruebaEncript\\obj\\",
+        "outputPath": "C:\\Users\\RYZEN 5\\OneDrive\\Desktop\\seguridad\\SeguridadGrupo9Semana2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

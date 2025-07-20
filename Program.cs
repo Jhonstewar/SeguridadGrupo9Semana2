@@ -7,7 +7,10 @@ class CifradoSimetrico
 {
     static void Main()
     {
+
+         Console.WriteLine("=== TEXTO A CIFRAR ===");         
         string textaACifrar = "El profesor Juan Carlos Valencia\nposee una voz de locutor";
+        Console.WriteLine(textaACifrar);
 
         // Generar clave y vector de inicialización
         using (Aes aes = Aes.Create())
@@ -18,7 +21,7 @@ class CifradoSimetrico
             byte[] clave = aes.Key;
             byte[] iv = aes.IV;
 
-            Console.WriteLine("=== COMIENZA CIFRADO ===");
+            Console.WriteLine("=== TEXTO CIFRADO ===");
             byte[] textCifrado = Cifrar(textaACifrar, clave, iv);
             Console.WriteLine(Convert.ToBase64String(textCifrado));
 
